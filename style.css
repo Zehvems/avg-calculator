@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui;
+  margin: 24px;
+  max-width: 600px;
+}
+input,
+button {
+  font-size: 16px;
+  margin-right: 8px;
+}
+li {
+  margin: 4px 0;
+}
