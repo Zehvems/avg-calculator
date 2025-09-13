@@ -11,9 +11,10 @@ Prosta apk do obliczania średniej z ocen 1–6.
 
 ## Uruchomienie
 
-Otwórz plik `index.html` w przeglądarce
-lub wejdź na [GitHub Pages](<link po publikacji>).
+Otwórz plik `index.html` w przeglądarce  
+lub wejdź na [GitHub Pages](https://Zehvems.github.io/avg-calculator/).
 
 ## Zrzut ekranu
 
-![Zrzut ekranu](assets/screen.png)
+![Zrzut ekranu](assets/AvCalcTest.png)
+
